@@ -1,5 +1,5 @@
 # hello_world
 getting started
-hi lol
-I am Deeptanshu
+hi lol \n
+I am Deeptanshu \n
 Just getting started with Github
